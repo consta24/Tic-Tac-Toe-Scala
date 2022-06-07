@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="H3-Lists,H3-Tic-Tac-Toe,h3-lists_8773" />
+  </component>
+</project>
