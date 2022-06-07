@@ -8,8 +8,6 @@ object Main{
   type Line = List[Player]
   type Board = List[Line]
 
-  def profileID:Int = 859865
-
   // creates a board from a string
   def makeBoard(s: String): Board = {
     def toPos(c: Char): Player = {
